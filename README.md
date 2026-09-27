@@ -183,34 +183,34 @@ Includes an evaluation module to measure recommendation accuracy against human-l
 
 ## 📂 Project Structure
 
+```text
 github_issue_recommender_v2/
 │
-├── app.py                      # Main Streamlit Dashboard Application
-├── requirements.txt            # Python dependencies
-├── .env.example                # Example environment configuration
-├── .gitignore                  # Git ignore rules
+├── app.py
+├── requirements.txt
+├── .env.example
+├── .gitignore
 │
 ├── .streamlit/
-│   └── config.toml             # Streamlit UI configuration
+│   └── config.toml
 │
 ├── src/
-│   ├── __init__.py             # Package initializer
-│   ├── models.py               # Dataclasses (DeveloperProfile, Issue, Recommendation)
-│   ├── recommender.py          # Hybrid scoring engine & embedding generator
-│   ├── github_client.py        # GitHub REST API interaction module
-│   └── evaluation.py           # Ranking metrics (Precision@K, MRR, NDCG@K)
+│   ├── __init__.py
+│   ├── models.py
+│   ├── recommender.py
+│   ├── github_client.py
+│   └── evaluation.py
 │
 └── data/
-    └── evaluation_template.csv # Evaluation dataset template
+    └── evaluation_template.csv
 
----
-
+```
 ## ⚙️ Installation
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/KanakDharamthok/github_issue_recommender_v2.git
-cd github_issue_recommender_v2
+git clone https://github.com/KanakDharamthok/Explainable-GitHub-Issue-Recommendation-System.git
+cd Explainable-GitHub-Issue-Recommendation-System
 ```
 
 ### 2. Create Virtual Environment
