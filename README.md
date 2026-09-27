@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔎 Explainable GitHub Issue Recommender V2
+# 🔎 Explainable GitHub Issue Recommendation System
 
 ## Open-Source Discovery • Semantic Embeddings • Hybrid Scoring • XAI Recommendations
 
@@ -92,7 +92,6 @@ Streamlit Interactive Dashboard
 
 ## ✨ Core Features
 
----
 
 ### 🧠 Hybrid Scoring Engine
 
@@ -146,7 +145,6 @@ Includes an evaluation module to measure recommendation accuracy against human-l
 
 ## 🧠 System Architecture
 
-```text
                      Developer Profile
                              │
         ┌────────────────────┼────────────────────┐
@@ -166,7 +164,6 @@ Includes an evaluation module to measure recommendation accuracy against human-l
                              │
                              ▼
                   Explainable Output Ranking
-```
 
 ---
 
@@ -186,7 +183,6 @@ Includes an evaluation module to measure recommendation accuracy against human-l
 
 ## 📂 Project Structure
 
-```text
 github_issue_recommender_v2/
 │
 ├── app.py                      # Main Streamlit Dashboard Application
@@ -276,7 +272,6 @@ Contributions, suggestions, and pull requests are warmly welcomed!
 
 ### Contribution Workflow
 
-```text
 Fork Repository
        ↓
 Create Feature Branch
@@ -288,7 +283,6 @@ Commit Changes
 Submit Pull Request
        ↓
 Review & Merge
-```
 
 ---
 
@@ -313,7 +307,7 @@ If you find this project helpful or inspiring:
 
 <div align="center">
 
-### 🔎 Explainable GitHub Issue Recommender V2
+### 🔎 Explainable GitHub Issue Recommendation System
 *Transforming Open-Source Contribution Discovery through Artificial Intelligence.*
 
 </div>
