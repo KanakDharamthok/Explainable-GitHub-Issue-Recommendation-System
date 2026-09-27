@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔎 Explainable GitHub Issue Recommender V2
+# 🔎 Explainable GitHub Issue Recommendation System
 
 ## Open-Source Discovery • Semantic Embeddings • Hybrid Scoring • XAI Recommendations
 
