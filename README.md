@@ -92,8 +92,6 @@ Streamlit Interactive Dashboard
 
 ## ✨ Core Features
 
----
-
 ### 🧠 Hybrid Scoring Engine
 
 The recommendation score combines seven weighted compatibility signals to produce a balanced, multi-dimensional ranking:
