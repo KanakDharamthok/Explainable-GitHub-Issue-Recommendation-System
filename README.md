@@ -313,7 +313,7 @@ If you find this project helpful or inspiring:
 
 <div align="center">
 
-### 🔎 Explainable GitHub Issue Recommender V2
+### 🔎 Explainable GitHub Issue Recommendation System
 *Transforming Open-Source Contribution Discovery through Artificial Intelligence.*
 
 </div>
