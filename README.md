@@ -202,7 +202,6 @@ github_issue_recommender_v2/
 │
 └── data/
     └── evaluation_template.csv # Evaluation dataset template
-```
 
 ---
 
